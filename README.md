@@ -48,7 +48,7 @@ Cleaned_Dataset.csv
 
 # Screenshots
 
-The `screenshots/` folder contains:
+The `project1/` folder contains:
 
 * Missing value analysis
 * Duplicate record verification
